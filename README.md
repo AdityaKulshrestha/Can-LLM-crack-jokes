@@ -1,7 +1,8 @@
 # Can LLM generate novel jokes?
 
+[Research Paper Reference](https://arxiv.org/pdf/2409.03733)
 
-
+[Detailed Plan](https://docs.google.com/document/d/1lb-un6E5n7taW-eLQkRflvfeNLfnjYpPz188FfzjR24/edit?tab=t.0) 
 
 ## Steps to reproduce
 ### Product random topics for jokes
