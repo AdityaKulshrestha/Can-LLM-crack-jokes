@@ -1,0 +1,5 @@
+jokes_llama3.3_70b.json
+.venv/
+.mypy_cache/
+__pycache__
+evaluated_response/

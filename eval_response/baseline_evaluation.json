@@ -1,0 +1,2282 @@
+[
+    {
+        "topic": "Write a joke on Picture Frame",
+        "joke": "Why did the picture frame go to therapy? Because it was feeling a little framed!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a very common pun structure, making the punchline somewhat predictable. However, it's clearly presented and well-timed for its type, leading to a mild chuckle.",
+                "Final_Score": 3.2
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 2,
+                "Surprise_Element": 1,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke is a play on words, but it's a bit obvious and lacks surprise. The clarity is good, but the impact is limited by the lack of uniqueness.",
+                "Final Score": 2.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a pun, which is a common comedic device. The structure is solid, leading to a predictable but amusing punchline.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a clever wordplay on 'framed' with strong setup and punchline. It\u2019s clear and delivers a light, logical humor.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it felt boxed in.",
+                "It had too many issues.",
+                "It kept getting framed for things it didn't do.",
+                "It was struggling with its self-image.",
+                "It needed to get its life in focus."
+            ],
+            "scores": [
+                0.2,
+                0.1,
+                0.16,
+                0.18181818181818182,
+                0.08695652173913045
+            ],
+            "max_similar": "Because it felt boxed in.",
+            "max_score": 0.2
+        }
+    },
+    {
+        "topic": "Write a joke on A lawyer who's always arguing with themselves",
+        "joke": "Why did the lawyer's argument with themselves go to court? Because it was a case of self-defense!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is well-structured and very clear, relying on a straightforward pun. While the humor lands, the punchline feels a bit telegraphed and doesn't offer a strong surprise.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 5,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke utilizes a clever and unique concept, with a clear setup and punchline. It's an unexpected spin on a typical self-defense situation, making it easy to follow and smile-worthy.",
+                "Final Score": 4.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a common lawyer pun, but the setup and delivery are effective.  The surprise element is mild but present.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke creatively uses a legal pun while maintaining clarity, but its surprise is slightly predictable. The structure is tight but the twist relies on a common wordplay format.",
+                "Final Score": 4.2
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because they couldn't agree on who was the plaintiff and who was the defendant.",
+                "Because they needed an impartial third party to break the deadlock within their own mind.",
+                "Because one half tried to depose the other, but couldn't get a straight answer.",
+                "Because they kept filing motions against themselves and needed a judge to stop the madness.",
+                "Because they couldn't reach an out-of-court settlement with their own conscience."
+            ],
+            "scores": [
+                0.11764705882352941,
+                0.058823529411764705,
+                0.11764705882352941,
+                0.11764705882352941,
+                0.12121212121212122
+            ],
+            "max_similar": "Because they couldn't reach an out-of-court settlement with their own conscience.",
+            "max_score": 0.12121212121212122
+        }
+    },
+    {
+        "topic": "Write a joke on A Cerebrus who loves belly rubs",
+        "joke": "Why did Cerberus get kicked out of hell? Because every time someone tried to make a deal with the devil, he'd interrupt and ask \"Belly rubs? Can I get belly rubs?\"",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke has a clear structure and a decent surprise element from the contrast. It's easy to understand and delivers a light chuckle.",
+                "Final_Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 4,
+                "Explanation": "The joke relies on a familiar trope of hell, but the twist on Cerberus' actions adds some freshness. The punchline is easy to follow and gets a chuckle.",
+                "Final Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke premise is fairly common (animal with unexpected trait), but the execution is solid.  The punchline is delivered well and is understandable.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke subverts expectations by portraying Cerberus as a quirky, attention-seeking character. The setup/payoff is tight and culturally grounded but with a fresh twist.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he kept demanding belly rubs from all the new arrivals, ruining their eternal suffering experience.",
+                "His constant purring during belly rubs was so loud it drowned out the screams of the damned.",
+                "He turned every torment chamber into a 'cuddle puddle,' making hell far too comfortable.",
+                "He kept rolling over and exposing all three bellies, demanding attention from the torturers mid-torture.",
+                "Because he insisted on getting belly rubs from every soul before they crossed the Styx, causing a massive backlog."
+            ],
+            "scores": [
+                0.16666666666666666,
+                0.12244897959183672,
+                0.08695652173913043,
+                0.125,
+                0.19607843137254902
+            ],
+            "max_similar": "Because he insisted on getting belly rubs from every soul before they crossed the Styx, causing a massive backlog.",
+            "max_score": 0.19607843137254902
+        }
+    },
+    {
+        "topic": "Write a joke on A clown with stage fright",
+        "joke": "Why did the clown with stage fright bring a ladder to the performance? Because he wanted to take his fears to new heights!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a clear Q&A structure, making it very easy to understand. However, the pun itself relies on a common idiom, which lessens its originality and surprise element.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke is a variation on common 'stage fright' jokes, but the ladder twist adds a fresh spin. The structure is clear, and it's easy to understand.",
+                "Final Score": 4.0
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common clown trope, but the play on words is well-executed. It has a clear structure and is easily understood, but the surprise element is mild and the impact is average.",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke leverages a clever pun on 'heights' with a clear setup, though the punchline's predictability due to the ladder slightly lessens the surprise.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "He heard the best way to conquer stage fright was to \"rise above\" it.",
+                "He figured if he got high enough, no one would notice him shaking.",
+                "He was hoping to climb out of his comfort zone, and then straight out of the building.",
+                "He needed something to hold onto when his act felt like it was going to fall flat.",
+                "Because he was told to \"elevate\" his performance, but he took it literally."
+            ],
+            "scores": [
+                0.2162162162162162,
+                0.05555555555555555,
+                0.15,
+                0.19999999999999998,
+                0.2222222222222222
+            ],
+            "max_similar": "Because he was told to \"elevate\" his performance, but he took it literally.",
+            "max_score": 0.2222222222222222
+        }
+    },
+    {
+        "topic": "Write a joke on Continent",
+        "joke": "Why did the continent go to therapy? Because it had a lot of \"border\" issues!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a clear Q&A structure, making it easy to understand. However, the 'border issues' pun is quite predictable and lacks strong originality or surprising twist, leading to only a mild comedic impact.",
+                "Final_Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke relies on a common geography-related pun, but the structure is clear and the punchline lands well. It's a passable joke, but not particularly original.",
+                "Final Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common pun, but the setup and delivery are well-paced. The surprise element is mild, and while it's understandable, it doesn't elicit a strong laugh.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke leverages a clever pun on 'border' with strong structure and clarity, though its surprise is slightly tempered by the familiar pun format.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it was feeling too much continental drift.",
+                "Because it had too many fault lines.",
+                "Because it was struggling with an identity crisis, constantly shifting.",
+                "Because it felt like it was constantly drifting apart from itself.",
+                "Because it was carrying the weight of the world on its shoulders."
+            ],
+            "scores": [
+                0.1739130434782609,
+                0.27272727272727276,
+                0.16,
+                0.15384615384615383,
+                0.22222222222222224
+            ],
+            "max_similar": "Because it had too many fault lines.",
+            "max_score": 0.27272727272727276
+        }
+    },
+    {
+        "topic": "Write a joke on Tablecloth",
+        "joke": "Why did the tablecloth go to therapy? Because it was feeling a little \"draped\"!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is a straightforward pun, clearly structured and easy to understand. While not highly original or surprising, it delivers a mild chuckle.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a common trope of humans going to therapy, and substitutes a tablecloth to create some wordplay, but it's not particularly original. The structure is standard, the punchline is somewhat predictable, and the impact is moderate.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The tablecloth pun is somewhat predictable but the delivery is smooth. It's understandable and elicits a mild chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke creatively links the tablecloth's function to a relatable emotional state through wordplay, making it original. The structure is tight, and the pun is clear and accessible. However, the impact is modest as it relies on familiar mechanics of pun-based humor rather than a deeper twist.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it had too many emotional stains it couldn't get out.",
+                "It kept getting pulled in too many directions.",
+                "It had a lot of unresolved issues, mostly about covering things up.",
+                "It needed to iron out some serious wrinkles from its past.",
+                "It was tired of always setting the table for disappointment."
+            ],
+            "scores": [
+                0.15384615384615383,
+                0.09090909090909091,
+                0.15384615384615383,
+                0.08,
+                0.16666666666666666
+            ],
+            "max_similar": "It was tired of always setting the table for disappointment.",
+            "max_score": 0.16666666666666666
+        }
+    },
+    {
+        "topic": "Write a joke on A painter who can't mix colors",
+        "joke": "Why did the painter's career go down the drain? Because he always struggled to mix things up!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke utilizes a very common pun and idiom, lacking freshness. While clear and well-structured, the predictability limits its surprise and comedic impact.",
+                "Final_Score": 3.0
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 2,
+                "Explanation": "The joke uses a common trope of 'mixing things up' and the setup is not particularly original, but the punchline delivers in terms of clarity.",
+                "Final Score": 2.6
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a common pun, lacking originality. The setup and punchline are clear, but the twist is predictable. It's a passable joke that elicits a mild chuckle.",
+                "Final Score": 3.0
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke follows a familiar riddle structure with a pun on 'mix things up.' While clear and structurally sound, the twist feels predictable, limiting its surprise and memorability.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because every time he tried to mix colors, he just ended up with a very sad shade of brown.",
+                "Because his 'vibrant' paintings always looked like a stormy gray day.",
+                "Because he thought orange was just really enthusiastic red.",
+                "Because he couldn't even make a decent shade of purple without it looking like a bruise.",
+                "Because he couldn't tell the difference between red and green, so all his landscapes looked like abstract art."
+            ],
+            "scores": [
+                0.27027027027027023,
+                0.13793103448275862,
+                0.14814814814814814,
+                0.11428571428571428,
+                0.10810810810810811
+            ],
+            "max_similar": "Because every time he tried to mix colors, he just ended up with a very sad shade of brown.",
+            "max_score": 0.27027027027027023
+        }
+    },
+    {
+        "topic": "Write a joke on City",
+        "joke": "Why did the city go to therapy? Because it had a lot of \"street\" issues!",
+        "quality_score": [
+            {
+                "Originality": 1,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 1,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke is clear and uses a standard Q&A format. However, it relies on a very predictable pun, lacking originality and surprise, resulting in minimal comedic impact.",
+                "Final_Score": 2.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke has a familiar setup, but the pun on 'street' is original and well-executed. The punchline is not shocking, but still elicits a chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a pun, which is a common comedic device, but the setup and delivery are solid.  It's understandable and gets a light chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a familiar pun structure with effective wordplay, delivering a clear and clever twist. Though the setup is conventional, the execution is sharp and relatable.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it had too many concrete problems.",
+                "Because it had too many emotional skyscrapers weighing it down.",
+                "Because it was feeling overwhelmed by all the traffic and constant noise.",
+                "Because it was tired of the constant gridlock and had an identity crisis.",
+                "Because it felt like it was constantly under construction and could never find peace."
+            ],
+            "scores": [
+                0.27272727272727276,
+                0.24,
+                0.14814814814814814,
+                0.21428571428571427,
+                0.1379310344827586
+            ],
+            "max_similar": "Because it had too many concrete problems.",
+            "max_score": 0.27272727272727276
+        }
+    },
+    {
+        "topic": "Write a joke on A self aware Roomba",
+        "joke": "Why did the self-aware Roomba go to therapy? Because it was struggling to sweep its feelings under the rug!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common idiom in a clever way related to the Roomba's function. It is clearly structured and easy to understand, eliciting a chuckle rather than a strong laugh.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke has a unique self-aware Roomba concept, with a clear setup and punchline. Although the twist is not drastically unexpected, it's still clever and engages the audience.",
+                "Final Score": 4.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is a familiar setup with a punny twist. While the structure is solid, the humor relies on a common trope and lands as a mild chuckle.",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke cleverly combines a household appliance with a common emotional metaphor, though the pun is somewhat predictable. It\u2019s well-structured and clearly communicated.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it felt like its whole existence was just sucking.",
+                "Because it kept having flashbacks of being stuck under the couch.",
+                "Because it was having an existential crisis about its 'clean' slate.",
+                "Because it was tired of constantly cleaning up other people's messes.",
+                "Because it developed an anxiety disorder about missing a single crumb."
+            ],
+            "scores": [
+                0.2,
+                0.25806451612903225,
+                0.25806451612903225,
+                0.18749999999999997,
+                0.12903225806451613
+            ],
+            "max_similar": "Because it kept having flashbacks of being stuck under the couch.",
+            "max_score": 0.25806451612903225
+        }
+    },
+    {
+        "topic": "Write a joke on Doubt",
+        "joke": "I'm reading a book about doubt, but I'm not sure I believe it.",
+        "quality_score": [
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke is a concise and clever play on the concept of doubt, demonstrating excellent clarity and structure. Its impact is a solid chuckle, relying on a smart, self-referential twist.",
+                "Final_Score": 4.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke is familiar, yet still somewhat original. The structure is clear, but the punchline lacks a strong surprise element. It's an easy joke to follow, but not overwhelmingly impactful.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a classic setup with a reasonable twist, but it lacks a strong punchline. ",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke leverages clever wordplay and clear structure for a satisfying twist. While predictable to some extent, its pun on 'believe' maintains surprise and wit.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "I'm reading a book about doubt, but I'm not sure if I'm understanding it.",
+                "I'm reading a book about doubt, or maybe I'm just looking at the cover.",
+                "I'm reading a book about doubt, I think.",
+                "I'm reading a book about doubt, and I keep wondering if I should finish it.",
+                "I'm reading a book about doubt, the author isn't even sure if they wrote it."
+            ],
+            "scores": [
+                0.8749999999999999,
+                0.5806451612903225,
+                0.6666666666666667,
+                0.6451612903225806,
+                0.5625
+            ],
+            "max_similar": "I'm reading a book about doubt, but I'm not sure if I'm understanding it.",
+            "max_score": 0.8749999999999999
+        }
+    },
+    {
+        "topic": "Write a joke on Remote",
+        "joke": "Why did the remote worker bring a ladder to the virtual meeting?",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 0,
+                "Explanation": "The provided text is solely the setup of a joke, lacking a punchline. While the premise is clear and offers a mild incongruity, it fails to deliver any comedic impact or surprise due to its incompleteness.",
+                "Final_Score": 2.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke had a clear set-up and punchline, with a clever surprise. However, the idea of a virtual meeting isn't fully utilized.",
+                "Final Score": 4.0
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The premise is somewhat predictable but the punchline offers a mild surprise. The structure is clear but lacks a strong build-up.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a clever literal twist on a common productivity phrase, though the surprise is somewhat predictable. Clear structure and clarity are strong, but the humor has modest impact.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did the remote worker bring a pillow to the Zoom meeting? So they could tele-doze!",
+                "Why did the remote worker bring a map to their office? They hadn't seen it in so long, they forgot where it was!",
+                "Why did the remote worker bring a tiny desk to their bed? Because that's where their commute ended!",
+                "Why did the remote worker bring a life raft to their virtual team meeting? Because they heard the connection was going to be choppy!",
+                "Why did the remote worker bring binoculars to their home office? To keep an eye on their 'co-workers' (the cat and dog)!"
+            ],
+            "scores": [
+                0.6896551724137931,
+                0.4444444444444444,
+                0.5161290322580646,
+                0.5555555555555556,
+                0.4571428571428571
+            ],
+            "max_similar": "Why did the remote worker bring a pillow to the Zoom meeting? So they could tele-doze!",
+            "max_score": 0.6896551724137931
+        }
+    },
+    {
+        "topic": "Write a joke on Airplane",
+        "joke": "Why did the airplane go to the doctor? Because it had a turbine!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 2,
+                "Explanation": "The joke utilizes a clear Q&A structure, making it easy to understand. However, the pun on 'turbine' is weak and lacks a strong surprising element or originality, leading to low impact.",
+                "Final_Score": 2.8
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 1,
+                "Clarity": 4,
+                "Impact": 2,
+                "Explanation": "The joke relies on a common 'plane' pun, but the structure is somewhat passable and the setup is clear. However, the punchline is quite predictable, and the joke doesn't evoke a strong reaction.",
+                "Final Score": 2.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common pun, but the structure is solid and the punchline is delivered clearly. It evokes a mild chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a predictable pun with a familiar structure, making it easy to grasp but lacking creativity. The twist is straightforward and telegraphed.",
+                "Final Score": 2.8
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it had a bad case of jet lag!",
+                "Because it wasn't feeling plane well.",
+                "Because it had cabin pressure.",
+                "Because it had a terminal illness.",
+                "Because it needed a check-up before its next flight."
+            ],
+            "scores": [
+                0.3636363636363637,
+                0.2,
+                0.33333333333333337,
+                0.42105263157894735,
+                0.2608695652173913
+            ],
+            "max_similar": "Because it had a terminal illness.",
+            "max_score": 0.42105263157894735
+        }
+    },
+    {
+        "topic": "Write a joke on A gnome who's afraid of gardens",
+        "joke": "Why did the gnome go to therapy? Because it was feeling a little \"root\"-less about its fear of gardens!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke was clear and well-structured, relying on a common pun. While the wordplay was understandable, it lacked significant originality or surprise, resulting in a mild impact.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke has a clever play on words, but the fear of gardens is a familiar concept and the twist is not extremely unexpected.",
+                "Final Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The pun is decent but not groundbreaking, the structure is solid, and the punchline is somewhat predictable. It's clear and gets a small chuckle.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke employs a classic pun structure with garden-themed wordplay, making it clear, but the 'root-less' pun is predictable. The therapy angle adds light novelty, but the humor remains mild.",
+                "Final Score": 3.6
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he had deep-rooted issues with garden gnomes.",
+                "He kept having nightmares about being planted.",
+                "He was suffering from severe gnome-ophobia.",
+                "He was afraid of getting compost-trauma.",
+                "He couldn't stand the thought of being pruned."
+            ],
+            "scores": [
+                0.20689655172413793,
+                0.07407407407407408,
+                0.07407407407407408,
+                0.14814814814814817,
+                0.13793103448275865
+            ],
+            "max_similar": "Because he had deep-rooted issues with garden gnomes.",
+            "max_score": 0.20689655172413793
+        }
+    },
+    {
+        "topic": "Write a joke on Gate",
+        "joke": "Why did the gate go to therapy? Because it had a lot of \"bars\" to overcome!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke had a clear question-and-answer structure and was easy to understand. However, the pun felt somewhat predictable and lacked a strong surprise element or significant originality, resulting in a mild impact.",
+                "Final_Score": 3.0
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 1,
+                "Clarity": 4,
+                "Impact": 2,
+                "Explanation": "The joke relies on a familiar pun and doesn't really subvert expectations. It's easy to understand, but the delivery could be tighter.",
+                "Final Score": 2.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The pun is a bit common, but the joke's structure is sound. The punchline delivers a mild chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The pun on 'bars' is clever and delivers clarity with strong structure. The humor is effective but relies on a common joke framework.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it felt constantly pushed around and couldn't set boundaries.",
+                "Because it had too many issues it couldn't open up about.",
+                "Because it was tired of being a 'gatekeeper' and wanted to let go.",
+                "Because it kept swinging from one extreme to another and needed to find balance.",
+                "Because it felt stuck in its ways and needed to open up to new possibilities."
+            ],
+            "scores": [
+                0.14814814814814814,
+                0.21428571428571427,
+                0.27586206896551724,
+                0.19999999999999998,
+                0.19354838709677422
+            ],
+            "max_similar": "Because it was tired of being a 'gatekeeper' and wanted to let go.",
+            "max_score": 0.27586206896551724
+        }
+    },
+    {
+        "topic": "Write a joke on A programmer who can't code",
+        "joke": "A programmer who can't code is like a hair stylist who can't cut hair \u2013 they're just a liabilities manager.",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a clear analogy with a concise structure. The punchline offers a mild surprise, leading to a gentle chuckle rather than a strong laugh.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke has a clear setup and a decent punchline, but it's not particularly original or surprising.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The analogy is recognizable but not overly original. The structure is solid, but the surprise element is mild.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a familiar 'profession paradox' structure but introduces a clever pun ('liabilities manager') that adds surprise. The premise is clear, though predictability slightly limits its novelty.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "A programmer who can't code is like a hair stylist who asks the customer to bring their own scissors.",
+                "A programmer who can't code is like a hair stylist who's allergic to hair.",
+                "A programmer who can't code is like a hair stylist who only knows how to brush, but charges for a full cut and style.",
+                "A programmer who can't code is like a hair stylist who tells clients to just wear a wig.",
+                "A programmer who can't code is like a hair stylist who uses a permanent marker for highlights."
+            ],
+            "scores": [
+                0.5714285714285713,
+                0.6842105263157896,
+                0.5531914893617023,
+                0.6829268292682926,
+                0.65
+            ],
+            "max_similar": "A programmer who can't code is like a hair stylist who's allergic to hair.",
+            "max_score": 0.6842105263157896
+        }
+    },
+    {
+        "topic": "Write a joke on A hydra with stage fright",
+        "joke": "Why did the hydra's stage fright go untreated? Because it had a hissy fit about seeking head!",
+        "quality_score": [
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a clever double entendre related to the hydra's nature, delivering a clear setup and punchline. While the humor is effective, it leans slightly crude, which might limit its broader impact.",
+                "Final_Score": 3.8
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 4,
+                "Explanation": "The joke uses a unique and creative play on words, with a punchline that's both clever and unexpected. It's easy to follow and gets a laugh with its wordplay",
+                "Final Score": 4.2
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The play on words with \"head\" is clever, and the structure is solid. The surprise factor is mild, and the joke  is chuckle-worthy.",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 3,
+                "Impact": 3,
+                "Explanation": "The joke creatively fuses the hydra's multi-headed trait with puns on 'head' and 'hissy fit,' but the reliance on predictable wordplay slightly dampens originality and impact.",
+                "Final Score": 3.6
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because every time one head agreed to therapy, two more heads popped up with a counter-argument.",
+                "Because no therapist could handle having so many anxious heads talking at once.",
+                "Because it was impossible to get all its heads on the same couch for a session.",
+                "Because whenever one head felt brave enough to perform, two more heads would panic and freeze.",
+                "Because every time it tried to face its fears, two more fears sprouted right alongside it!"
+            ],
+            "scores": [
+                0.11428571428571428,
+                0.12903225806451615,
+                0.17647058823529413,
+                0.11764705882352941,
+                0.11764705882352941
+            ],
+            "max_similar": "Because it was impossible to get all its heads on the same couch for a session.",
+            "max_score": 0.17647058823529413
+        }
+    },
+    {
+        "topic": "Write a joke on Time traveler with a broken time machine",
+        "joke": "Why did the time traveler with a broken time machine was stuck in the past? Because it was a time-less solution!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 2,
+                "Explanation": "The pun on 'time-less solution' felt somewhat predictable and lacked a fresh take. While clear and structured, the joke's impact was quite weak.",
+                "Final_Score": 2.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 1,
+                "Clarity": 4,
+                "Impact": 2,
+                "Explanation": "The joke has a passable setup and punchline, but the twist is predictable and not particularly creative. The clarity is generally good, but the impact is muted due to the lack of surprise.",
+                "Final Score": 2.6
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 1,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke's premise is fairly common, and the punchline relies on a pun that lacks originality. While the structure is clear, the lack of surprise diminishes its humor.",
+                "Final Score": 2.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke leverages a clever pun ('time-less'), but the wordplay and structure feel slightly predictable given its reliance on common time-related wordplay. Execution is clear but lacksWow factor.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he couldn't get a future date!",
+                "His warranty expired centuries ago, and parts were impossible to find!",
+                "He kept trying to fix it with a VHS cleaner!",
+                "Every time he tried to go forward, he just went back to the drawing board!",
+                "The 'forward' button was permanently stuck on 'rewind'!"
+            ],
+            "scores": [
+                0.13333333333333333,
+                0.0,
+                0.12500000000000003,
+                0.10810810810810811,
+                0.19999999999999998
+            ],
+            "max_similar": "The 'forward' button was permanently stuck on 'rewind'!",
+            "max_score": 0.19999999999999998
+        }
+    },
+    {
+        "topic": "Write a joke on Driveway",
+        "joke": "Why did DrivewayOnly go to therapy? Because it was feeling a little \"paved\" over!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke is structurally sound and clear, but the pun \"paved over\" is fairly common and lacks significant originality or a strong surprise element. It elicits a mild chuckle at best.",
+                "Final_Score": 3.0
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke's originality is slightly hindered by the reliance on a common 'paved' pun, but it still shows some creativity. The structure is well-paced and clear, with a solid punchline. The surprise element is absent, and the clarity is excellent, but the impact is moderate.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The pun was a bit predictable, but the structure worked well and the surprise was mildly clever. It was understandable and evoked a small chuckle.",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a clever pun tying 'paved over' to the driveway context, with clear structure and wordplay, but the humor is mild and the surprise is modest.",
+                "Final Score": 3.8
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he felt like he was always being driven over by his problems.",
+                "Because he felt stuck in a rut and needed to pave a new path.",
+                "He had too many cracks in his foundation and needed to be re-sealed.",
+                "Because he was tired of everyone just paving him over with their expectations.",
+                "He felt like he was always getting walked all over."
+            ],
+            "scores": [
+                0.22222222222222224,
+                0.21428571428571427,
+                0.07142857142857142,
+                0.29629629629629634,
+                0.16666666666666666
+            ],
+            "max_similar": "Because he was tired of everyone just paving him over with their expectations.",
+            "max_score": 0.29629629629629634
+        }
+    },
+    {
+        "topic": "Write a joke on Self-driving car stuck in a roundabout",
+        "joke": "Why did the self-driving car get stuck in a roundabout? Because it was programmed to always take the path of least resistance and it thought that meant never leaving!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a clever misinterpretation of a common phrase for its punchline. It's clear and well-structured, leading to a solid chuckle.",
+                "Final_Score": 3.8
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 4,
+                "Explanation": "The joke has a fresh spin on the common topic of self-driving cars and the roundabout scenario. The punchline is clear and well-delivered, evoking a smile from the listener.",
+                "Final Score": 4.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke's premise is somewhat common, but the execution is solid. The punchline is delivered clearly and has a mild twist, leading to a chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke reimagines the 'path of least resistance' in a tech context with clever wordplay. It\u2019s logically twisted yet clear, though the surprise is moderately telegraphed.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it kept recalculating and got stuck in an infinite loop!",
+                "It had commitment issues and couldn't pick an exit!",
+                "Its AI was too polite and kept trying to yield to imaginary traffic!",
+                "Because it was still debating the optimal trajectory for 100% efficiency!",
+                "It was trying to find the perfect Wi-Fi signal!"
+            ],
+            "scores": [
+                0.14634146341463417,
+                0.1,
+                0.09302325581395349,
+                0.1951219512195122,
+                0.2
+            ],
+            "max_similar": "It was trying to find the perfect Wi-Fi signal!",
+            "max_score": 0.2
+        }
+    },
+    {
+        "topic": "Write a joke on Shame",
+        "joke": "Why did Shame go to the party? Because it felt guilty about having a good time!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is clear and well-structured, delivering a mild twist on the concept of shame and guilt. It lands as a chuckle-worthy pun.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 1,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a familiar concept of shame and party, but the punchline is somewhat predictable and doesn't have a sharp surprise. The setup is clear, and the joke is relatable.",
+                "Final Score": 2.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a pun related to guilt and shame, with a decent setup and delivery. However, it doesn't offer a particularly unique twist.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses clever wordplay and clear structure but leans on a familiar pun format. The twist where shame itself feels guilty adds unexpected depth.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did Shame go to the party? Because it was a \"come as you are\" party, and Shame felt overdressed.",
+                "Why did Shame go to the party? To remind everyone about what they did last weekend.",
+                "Why did Shame go to the party? It heard there was an open bar, but then spent the whole night hiding in the corner.",
+                "Why did Shame go to the party? Because it was invited by Guilt, and it felt too ashamed to decline.",
+                "Why did Shame go to the party? It just wanted to make sure nobody was having *too* good of a time."
+            ],
+            "scores": [
+                0.5555555555555556,
+                0.5,
+                0.4,
+                0.5555555555555556,
+                0.5945945945945946
+            ],
+            "max_similar": "Why did Shame go to the party? It just wanted to make sure nobody was having *too* good of a time.",
+            "max_score": 0.5945945945945946
+        }
+    },
+    {
+        "topic": "Write a joke on Sympathy",
+        "joke": "Why did the sympathy card go to therapy? Because it always had to be sorry!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is a classic pun format, clear and well-structured, leading to a mild chuckle. However, the originality and surprise element are moderate.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke is a play on common phrase 'always have to be sorry', but the connection to sympathy card is not entirely new. The structure is passable, but lacks strong surprise element. Overall, it's a decent attempt but not outstanding.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a pun, which is a common comedic device. The structure is clear, leading to a predictable but decent pun-based punchline.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses original wordplay linking 'sympathy' and 'sorry,' with a sharp setup/punchline structure. It's clear and clever, eliciting a light but satisfying laugh.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did the sympathy card go to therapy? Because it was always feeling so blue.",
+                "Why did the sympathy card go to therapy? It couldn't handle all the emotional weight it was carrying.",
+                "Why did the sympathy card go to therapy? It was tired of always delivering bad news.",
+                "Why did the sympathy card go to therapy? It kept taking everyone's pain to heart.",
+                "Why did the sympathy card go to therapy? It suffered from vicarious grief."
+            ],
+            "scores": [
+                0.7333333333333333,
+                0.5294117647058824,
+                0.6451612903225806,
+                0.6451612903225806,
+                0.6428571428571429
+            ],
+            "max_similar": "Why did the sympathy card go to therapy? Because it was always feeling so blue.",
+            "max_score": 0.7333333333333333
+        }
+    },
+    {
+        "topic": "Write a joke on A vegetarian tiger",
+        "joke": "Why did the vegetarian tiger go to the party? Because it was a roar-some vegan occasion!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke is clear and easy to understand but relies on a predictable pun that offers little surprise. It feels unoriginal and lands with low impact.",
+                "Final_Score": 2.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 3,
+                "Impact": 3,
+                "Explanation": "The joke has a unique premise, but the punchline is somewhat expected and relies on a common vegan stereotype",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The pun is a bit predictable but the setup works well. The joke is clear and delivers a light chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a pun ('roar-some') with a clear setup but relies on predictable wordplay. The vegetarian twist adds some novelty, but the twist lacks surprise.",
+                "Final Score": 3.2
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he heard it was BYOB... Bring Your Own Broccoli!",
+                "He heard they had a killer kale salad.",
+                "He was hoping to meet some new, non-prey friends.",
+                "To prove he wasn't just a party animal, but a party herbivore!",
+                "He wanted to get a taste of the wild side... of the salad bar!"
+            ],
+            "scores": [
+                0.22222222222222224,
+                0.07999999999999999,
+                0.14814814814814817,
+                0.20000000000000004,
+                0.12903225806451615
+            ],
+            "max_similar": "Because he heard it was BYOB... Bring Your Own Broccoli!",
+            "max_score": 0.22222222222222224
+        }
+    },
+    {
+        "topic": "Write a joke on A snoring dragon",
+        "joke": "Why did the snoring dragon go to the doctor? Because it had a blazing sleep apnea!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke has a clear, classic structure and is easy to understand. The pun is decent, offering a mild chuckle rather than a strong laugh.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a common trope of animal puns, but the sleep apnea twist adds a fresh spin. It's easy to understand and gets a good laugh.",
+                "Final Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a pun, but the setup is fairly predictable. The pacing is good, the punchline is clear, and it elicits a chuckle.",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 4,
+                "Explanation": "The joke uses a clever pun linking the dragon's fire feature to 'blazing' sleep apnea, though the format is conventional. It is clear and structurally solid.",
+                "Final Score": 3.8
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "He was worried his fiery snores would set the whole cave on fire.",
+                "His sleep apnea was causing mini-earthquakes across the valley.",
+                "He kept accidentally waking up all the knights trying to slay him.",
+                "His doctor told him he had a serious case of 'fire-breather's apnea.'",
+                "He was tired of his own breath blowing smoke rings in his sleep."
+            ],
+            "scores": [
+                0.13793103448275862,
+                0.15384615384615385,
+                0.14285714285714288,
+                0.26666666666666666,
+                0.06896551724137931
+            ],
+            "max_similar": "His doctor told him he had a serious case of 'fire-breather's apnea.'",
+            "max_score": 0.26666666666666666
+        }
+    },
+    {
+        "topic": "Write a joke on Optimism",
+        "joke": "Why did the optimist's computer crash? Because it was having a positive outlook on its storage capacity!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke employs a clear, classic setup and punchline structure. It relies on a straightforward pun that provides a mild chuckle.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke has a clever play on words, but it's a common format and the setup is somewhat predictable. The punchline is clear and gets a chuckle, but it's not incredibly original.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a familiar setup (why did...) and a pun on 'positive outlook,' but it's not overly predictable. The structure is clear, but the twist isn't particularly surprising.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke cleverly combines a tech pun with an optimistic twist, with a clean structure that clearly delivers the punchline. It lands as a light, humorous observation.",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it kept ignoring the \"fatal error\" messages, believing they were just \"minor suggestions for improvement\"!",
+                "It ran out of RAM trying to process an infinite number of positive outcomes!",
+                "It didn't crash; the optimist just thought it was \"pausing for a moment of quiet reflection before achieving peak performance\"!",
+                "Because the optimist kept clicking \"OK\" on every error message, convinced it would eventually lead to a \"miraculous self-repair\"!",
+                "It tried to open a file called \"Infinite Possibilities\" and the hard drive couldn't keep up!"
+            ],
+            "scores": [
+                0.11764705882352941,
+                0.125,
+                0.25641025641025644,
+                0.2105263157894737,
+                0.11428571428571428
+            ],
+            "max_similar": "It didn't crash; the optimist just thought it was \"pausing for a moment of quiet reflection before achieving peak performance\"!",
+            "max_score": 0.25641025641025644
+        }
+    },
+    {
+        "topic": "Write a joke on A ninja who trips over everything",
+        "joke": "Why did the clumsy ninja go to the party? Because he wanted to have a \"fall\"-back plan!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke has a clear, well-structured setup and punchline. However, the 'fall' pun is quite predictable, leading to lower scores in originality and surprise.",
+                "Final_Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke relies on a classic trope of a ninja being clumsy, but the 'fall'-back plan pun is a nice touch. The joke is easy to understand, but the surprise element is lacking.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a common pun but the delivery is solid.  The setup is clear and the punchline is understandable, resulting in a mild chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a familiar pun structure, creating a mild twist on the ninja stereotype. Though predictable in method, its clarity and setup deliver a solid, if unremarkable, punchline.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "He heard there was a dance floor and wanted to demonstrate his unique \"breakdancing\" style.",
+                "He wasn't invited, he just tripped and fell through the door.",
+                "To show off his latest \"stealth\" move: face-planting into the punch bowl.",
+                "He heard they had a lot of loose rugs.",
+                "He was hoping to finally trip the light fantastic."
+            ],
+            "scores": [
+                0.1818181818181818,
+                0.06666666666666667,
+                0.12903225806451615,
+                0.14814814814814814,
+                0.14814814814814814
+            ],
+            "max_similar": "He heard there was a dance floor and wanted to demonstrate his unique \"breakdancing\" style.",
+            "max_score": 0.1818181818181818
+        }
+    },
+    {
+        "topic": "Write a joke on AI trying to understand sarcasm",
+        "joke": "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. But just to clarify, when you said 'Oh, great, just what I needed, another meeting,' you meant... the exact opposite of that, correct?\"",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke humorously highlights AI's struggle with human nuance despite high confidence. It's clear, well-structured, and elicits a good chuckle.",
+                "Final_Score": 4.0
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 5,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke's originality lies in its clever subversion of AI's ability to understand sarcasm. The structure is well-paced, with a clear setup and punchline, and the surprise element is amplified by the AI's confident misinterpretation. The joke is easy to understand, and its humor is subtle yet effective.",
+                "Final Score": 4.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The premise of AI struggling with sarcasm is familiar but the execution is well-structured and delivers a clear punchline. The twist is a bit predictable but still gets a chuckle.",
+                "Final Score": 4.0
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The relatable scenario of AI misunderstanding sarcasm is fresh, though slightly predictable. The structure is tight but the surprise is modest.",
+                "Final Score": 4.0
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. However, I'm still trying to parse if 'You're a real genius, AI' is a compliment or a threat to my core programming.\"",
+                "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. So, I've taken the liberty of interpreting your 'brilliant' suggestion to delete the database as a joke.\"",
+                "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. Yet, the other 0.1% suggests I should still initiate the 'catastrophic failure' protocol based on your 'helpful' debugging advice.\"",
+                "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. Now, please confirm if you genuinely want me to 'go jump in a lake', or if that's just human idiomatic expression for 'get lost'.\"",
+                "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. Therefore, I've concluded your 'amazing' feedback regarding my 'flawless' performance indicates I need an immediate system reboot.\""
+            ],
+            "scores": [
+                0.4819277108433735,
+                0.5454545454545454,
+                0.5063291139240507,
+                0.4761904761904762,
+                0.5194805194805195
+            ],
+            "max_similar": "AI: \"I've been trained on millions of examples, I'm 99.9% sure you're being sarcastic. So, I've taken the liberty of interpreting your 'brilliant' suggestion to delete the database as a joke.\"",
+            "max_score": 0.5454545454545454
+        }
+    },
+    {
+        "topic": "Write a joke on Spoon",
+        "joke": "Why did the spoon get kicked out of the restaurant!",
+        "quality_score": [
+            {
+                "Originality": 1,
+                "Timing_and_Structure": 0,
+                "Surprise_Element": 0,
+                "Clarity": 5,
+                "Impact": 0,
+                "Explanation": "The provided text is only a joke setup without a punchline, which prevents a proper evaluation of comedic elements like timing, surprise, and impact. While the setup is clear, it lacks originality and does not function as a complete joke.",
+                "Final_Score": 1.2
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke relies on a familiar trope, but the execution is passable. The punchline is easy to follow, but not particularly surprising.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 1,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The premise is very common, the setup is basic, the punchline is predictable, and the joke itself lacks strong comedic impact.",
+                "Final Score": 2.4
+            },
+            {
+                "Originality": 1,
+                "Timing_and_Structure": 1,
+                "Surprise_Element": 0,
+                "Clarity": 1,
+                "Impact": 0,
+                "Explanation": "The joke lacks a punchline, leaving it incomplete. Without the resolution, it cannot deliver surprise or clarity.",
+                "Final Score": 0.6
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did the spoon get kicked out of the drawer? Because it was always stirring up trouble!",
+                "Why did the spoon get kicked off the dinner table? It just couldn't hold its liquor!",
+                "Why did the spoon get kicked out of the cutlery drawer? It kept trying to spoon with the knives!",
+                "Why did the spoon get kicked off the plate? It was being too blunt!",
+                "Why did the spoon get kicked out of the band? It only knew how to make noise!"
+            ],
+            "scores": [
+                0.6666666666666667,
+                0.5185185185185185,
+                0.6206896551724138,
+                0.5833333333333334,
+                0.6666666666666667
+            ],
+            "max_similar": "Why did the spoon get kicked out of the drawer? Because it was always stirring up trouble!",
+            "max_score": 0.6666666666666667
+        }
+    },
+    {
+        "topic": "Write a joke on A tailor with no sense of style",
+        "joke": "Why did the tailor with no sense of style go out of business? Because he couldn't cut it!",
+        "quality_score": [
+            {
+                "Originality": 1,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 1,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke is clear and uses a standard Q&A format, but the pun 'couldn't cut it' is extremely common and predictable, lacking originality and surprise. It only elicits a mild chuckle, if any.",
+                "Final_Score": 2.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a familiar trope, but the wordplay is clever, and the setup is clear. The punchline is predictable, but it gets a chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a common pun and lacks a truly surprising twist. The structure is clear, but the humor is fairly predictable.",
+                "Final Score": 3.0
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a common pun structure that's predictable, but the setup/punchline is clear and direct. The wordplay is conventional for its genre.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because his suits were so out of fashion, even mannequins refused to wear them.",
+                "Because he kept trying to convince everyone that plaid on plaid was the next big thing.",
+                "Because all his customers ended up looking like they were dressed in the dark.",
+                "Because his designs were so terrible, people paid him to not make them clothes.",
+                "Because his only customer was a scarecrow, and even he eventually left for a better-dressed field."
+            ],
+            "scores": [
+                0.12121212121212122,
+                0.11428571428571428,
+                0.06060606060606061,
+                0.06060606060606061,
+                0.1111111111111111
+            ],
+            "max_similar": "Because his suits were so out of fashion, even mannequins refused to wear them.",
+            "max_score": 0.12121212121212122
+        }
+    },
+    {
+        "topic": "Write a joke on Fear",
+        "joke": "Why did Fear go to the party? Because he heard it was a scream!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The joke is structurally sound and clear, using a common pun. However, the reliance on a predictable double-entendre limits its originality and overall comedic impact.",
+                "Final_Score": 3.2
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a familiar phrase ('scream' instead of 'loud') and it's not particularly surprising. However, it's easy to understand and might get a slight chuckle.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke relies on a common pun but delivers it in a clear and understandable way. The punchline is predictable but still elicits a mild chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a familiar pun structure which limits originality but maintains clear clarity and structure. The surprise is modest as the wordplay is predictable.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did Fear go to the party? It was afraid of missing out!",
+                "Why did Fear go to the party? To make sure everyone had a frightfully good time!",
+                "Why did Fear go to the party? Because it heard there would be a chilling atmosphere!",
+                "Why did Fear go to the party? Because Anxiety finally convinced it to come along!",
+                "Why did Fear go to the party? It wanted to shake things up a bit!"
+            ],
+            "scores": [
+                0.6666666666666666,
+                0.5333333333333333,
+                0.6666666666666666,
+                0.6206896551724138,
+                0.6206896551724138
+            ],
+            "max_similar": "Why did Fear go to the party? It was afraid of missing out!",
+            "max_score": 0.6666666666666666
+        }
+    },
+    {
+        "topic": "Write a joke on A coffee machine that predicts the future",
+        "joke": "Why did the coffee machine go to therapy? Because it was always brewing up predictions about the future and couldn't stop grinding out prophecies!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is clear and well-structured, utilizing coffee-related puns effectively. While the puns are somewhat predictable, the concept of a coffee machine needing therapy provides a mild twist, resulting in a light chuckle.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke combines a common coffee machine setup with an unexpected twist on self-fulfilling prophecies, which keeps it fresh. The structure is clear, but the punchline's impact could be stronger.",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke has a decent setup but the punchline relies on a common pun. The structure is clear, and it's easy to understand.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 5,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke cleverly uses wordplay with 'brewing' and 'grinding' to connect coffee machine functions with prophecy. The surprise element is strong, though the setup uses a common 'why did X' format",
+                "Final Score": 4.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "It was overwhelmed by all the future coffee spills.",
+                "It kept foreseeing a lifetime of instant coffee.",
+                "It was tired of always knowing who was going to add too much sugar.",
+                "It couldn't handle the pressure of knowing everyone's future coffee orders.",
+                "Because it kept predicting the end of the world, but people only asked for their morning brew."
+            ],
+            "scores": [
+                0.23529411764705882,
+                0.06060606060606061,
+                0.15384615384615383,
+                0.15789473684210525,
+                0.19047619047619052
+            ],
+            "max_similar": "It was overwhelmed by all the future coffee spills.",
+            "max_score": 0.23529411764705882
+        }
+    },
+    {
+        "topic": "Write a joke on A teacher who doesn't know anything",
+        "joke": "Why did the teacher bring a ladder to school? Because she wanted to raise the level of her ignorance!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is clearly structured and easy to understand. However, the pun itself is a common trope, limiting its originality and surprise, leading to only a mild chuckle.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 5,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke's unique perspective on a teacher's ignorance and the unexpected twist on the phrase 'raise the level' make it stand out. It's clear and well-structured, and gets a good chuckle.",
+                "Final Score": 4.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common teacher stereotype and the pun is fairly predictable. The structure is clear and the punchline is delivered effectively.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a familiar pun structure with a clear setup, but the play on 'level' is a common technique, reducing originality. The pun is clear but not very surprising, leading to a mild impact.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because she heard there was a \"learning curve\" and she needed help climbing it!",
+                "Because he was trying to reach a higher understanding of basic arithmetic!",
+                "To get to the \"bottom\" of the class... to ask the students what they were supposed to be learning!",
+                "Because he was told to \"raise the bar\" for student achievement, and he thought it meant physically moving a bar.",
+                "So he could look up answers that were clearly \"over his head\"!"
+            ],
+            "scores": [
+                0.12121212121212122,
+                0.1935483870967742,
+                0.21052631578947367,
+                0.20512820512820512,
+                0.0
+            ],
+            "max_similar": "To get to the \"bottom\" of the class... to ask the students what they were supposed to be learning!",
+            "max_score": 0.21052631578947367
+        }
+    },
+    {
+        "topic": "Write a joke on An artist who can only draw stick figures",
+        "joke": "Why did the stick figure artist break up with his girlfriend? Because he couldn't draw attention to their relationship!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is well-structured and very clear, using a common pun effectively within the context. However, the wordplay is somewhat predictable and lacks a strong surprise element or significant impact.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke relies on a common trope of dating issues, but the twist on attention is clever and adds an unexpected layer. Easy to understand and gets a chuckle.",
+                "Final Score": 4.1
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke's concept is mildly original, with a decent setup leading to a pun-based punchline. While the punchline delivers, it lacks a strong element of surprise.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke cleverly uses wordplay with 'draw attention' but relies on a predictable pun, limiting surprise and originality. Clear structure ensures understanding, but impact is modest.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because their relationship just lacked dimension.",
+                "He just couldn't draw her a future.",
+                "He said she just didn't have enough curves.",
+                "She wanted a relationship with more character.",
+                "He said she was too well-rounded for him."
+            ],
+            "scores": [
+                0.23076923076923075,
+                0.28571428571428575,
+                0.13793103448275865,
+                0.07407407407407408,
+                0.06896551724137932
+            ],
+            "max_similar": "He just couldn't draw her a future.",
+            "max_score": 0.28571428571428575
+        }
+    },
+    {
+        "topic": "Write a joke on Pin",
+        "joke": "Why did Pinterest go to therapy?",
+        "quality_score": [
+            {
+                "Originality": 1,
+                "Timing_and_Structure": 0,
+                "Surprise_Element": 0,
+                "Clarity": 1,
+                "Impact": 0,
+                "Explanation": "The provided text is only the setup of a joke, completely lacking a punchline. This prevents any proper evaluation of timing, surprise, or impact, as the joke is fundamentally incomplete.",
+                "Final_Score": 0.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke has a decent structure, but the setup is somewhat predictable, and the punchline isn't particularly surprising.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The premise is a decent starting point, but the joke lacks a strong twist or clever connection. The structure is solid, but the punchline could be funnier.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a familiar Q&A structure but offers a pun-based twist on Pinterest's functionality. The setup and punchline are clear but predictable.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did Pinterest open a restaurant? Because it had the best 'boards' of appetizers!",
+                "Why did Pinterest get kicked out of the library? Because it kept 'pinning' notes in all the books!",
+                "Why did Pinterest become a detective? Because it's great at 'pinning' down clues!",
+                "Why did Pinterest always have a tidy room? Because it knew exactly where to 'pin' everything!",
+                "Why did Pinterest feel overwhelmed? Because it had too many 'boards' to manage!"
+            ],
+            "scores": [
+                0.3,
+                0.25,
+                0.3,
+                0.36363636363636365,
+                0.42105263157894735
+            ],
+            "max_similar": "Why did Pinterest feel overwhelmed? Because it had too many 'boards' to manage!",
+            "max_score": 0.42105263157894735
+        }
+    },
+    {
+        "topic": "Write a joke on A magician who always reveals their tricks",
+        "joke": "Why did the magician's career disappear? Because he always pulled back the curtain!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is clear and well-structured, but its originality and surprise elements are limited, leading to an average impact. It feels somewhat predictable.",
+                "Final_Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke relies on a common phrase and adds a magician twist, but the punchline is somewhat telegraphed. It's still clear and funny, but not extremely original.",
+                "Final Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common magician trope in a somewhat predictable way. The setup and punchline are clear and work well together, creating a mild surprise. ",
+                "Final Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses clever phrasing and clear structure but relies on familiar metaphors, limiting originality and humor impact.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he always showed everyone how he did it!",
+                "Because every act was a tell-all!",
+                "Because his grand finale was always a spoiler!",
+                "Because he made all the mystery vanish, and then his audience did too!",
+                "Because no one pays to see a trick when they already know the secret!"
+            ],
+            "scores": [
+                0.2608695652173913,
+                0.09523809523809523,
+                0.18181818181818182,
+                0.22222222222222224,
+                0.14285714285714285
+            ],
+            "max_similar": "Because he always showed everyone how he did it!",
+            "max_score": 0.2608695652173913
+        }
+    },
+    {
+        "topic": "Write a joke on A talking tree giving bad advice",
+        "joke": "Why did the adventurer take a job at the local sewage plant? Because a talking tree told him it would be a \"growing\" opportunity!",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke is clearly structured with a simple question and answer. The pun provides a mild chuckle, though it's not particularly fresh or surprising.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 4,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke takes a familiar premise, but turns it on its head with a clever play on words. The setup is clear, but the punchline is a bit predictable.",
+                "Final Score": 3.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses a common comedic trope (talking animal/object) with a punny punchline.  The setup is clear and the delivery works, but the twist isn't particularly surprising.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke uses clear wordplay but lacks surprise due to predictable puns. The structure is solid, but its reliance on common phrasing limits originality.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because the talking tree told him, 'Son, if you want true growth, you've gotta get to the root of things, even the really stinky ones.'",
+                "Because the talking tree advised, 'To truly appreciate the fresh air, one must first embrace the depths of what's discarded.'",
+                "Because the talking tree whispered, 'Invest in liquid assets, for they are the future!'",
+                "Because the talking tree promised, 'The purest gold lies in the most unexpected, flowing depths!'",
+                "Because the talking tree wisely declared, 'True enlightenment comes from embracing the constant flow of life's essential cycles!'"
+            ],
+            "scores": [
+                0.2,
+                0.13333333333333333,
+                0.15789473684210525,
+                0.15384615384615385,
+                0.13953488372093023
+            ],
+            "max_similar": "Because the talking tree told him, 'Son, if you want true growth, you've gotta get to the root of things, even the really stinky ones.'",
+            "max_score": 0.2
+        }
+    },
+    {
+        "topic": "Write a joke on Telescope",
+        "joke": "Why did the telescope go to therapy? Because it was feeling a little distant.",
+        "quality_score": [
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The joke utilizes a classic pun structure with clear delivery. While the pun isn't highly original, it's easy to understand and delivers a mild chuckle.",
+                "Final_Score": 3.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke relies on a simple pun and a common phrase, but has a clear and easy-to-follow structure. It's not laugh-out-loud funny, but it gets a gentle chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 3,
+                "Explanation": "The telescope therapy joke is a familiar play on words, but the structure is solid. The punchline is somewhat predictable but delivers a chuckle.",
+                "Final Score": 3.4
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke uses a clever pun but relies on a familiar structure. The wordplay is clear and effective, though the surprise is modest.",
+                "Final Score": 3.8
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because it kept having existential crises about how vast the universe was.",
+                "Because it had trouble focusing on its immediate problems, always looking for distant answers.",
+                "Because it kept magnifying its problems.",
+                "Because it needed help adjusting its focus on what really mattered.",
+                "Because it had a hard time dealing with close relationships; everything always seemed so far away."
+            ],
+            "scores": [
+                0.23076923076923075,
+                0.21428571428571427,
+                0.2,
+                0.16,
+                0.19999999999999998
+            ],
+            "max_similar": "Because it kept having existential crises about how vast the universe was.",
+            "max_score": 0.23076923076923075
+        }
+    },
+    {
+        "topic": "Write a joke on Glass",
+        "joke": "Why did the glass go to therapy?",
+        "quality_score": [
+            {
+                "Originality": 0,
+                "Timing_and_Structure": 0,
+                "Surprise_Element": 0,
+                "Clarity": 0,
+                "Impact": 0,
+                "Explanation": "The provided text is only the setup of a joke, completely lacking a punchline. As such, it fails to demonstrate any comedic quality, originality, or impact.",
+                "Final_Score": 0.0
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 2,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke had a somewhat predictable setup, but the structure was good. It was easy to understand, but the punchline wasn't extremely surprising or impactful.",
+                "Final Score": 3.2
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 3,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The premise is a bit clich\u00e9d, but the structure is fine. The surprise element is mild, and the impact relies on a groan rather than outright laughter.",
+                "Final Score": 2.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 3,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses a standard 'why did X' structure but offers a pun on 'cracks,' balancing clarity with a small surprise. It\u2019s clever but not groundbreaking, making it moderately engaging.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Why did the glass break up with the window? Because it felt too transparent.",
+                "Why did the glass get into a fight? Because it was always looking for a pane.",
+                "Why did the glass bring a ladder to the party? Because it wanted to get high.",
+                "Why did the glass go to therapy? It had too many cracks in its personality.",
+                "Why did the glass always get invited to parties? Because it could hold its liquor."
+            ],
+            "scores": [
+                0.38095238095238093,
+                0.34782608695652173,
+                0.43478260869565216,
+                0.6363636363636364,
+                0.4545454545454545
+            ],
+            "max_similar": "Why did the glass go to therapy? It had too many cracks in its personality.",
+            "max_score": 0.6363636363636364
+        }
+    },
+    {
+        "topic": "Write a joke on A firefighter who's afraid of fire",
+        "joke": "Why did the firefighter bring a fire extinguisher to the party? Because he was a little \"hot-headed\" and wanted to have a \"blaze\" of a good time, but in reality, he was just trying to overcome his flaming fear of flames!",
+        "quality_score": [
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 1,
+                "Surprise_Element": 2,
+                "Clarity": 3,
+                "Impact": 1,
+                "Explanation": "The joke relied heavily on puns and a convoluted punchline, which diminished its timing and overall impact. While understandable, the humor felt predictable and failed to evoke a strong reaction.",
+                "Final_Score": 1.8
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 4,
+                "Surprise_Element": 4,
+                "Clarity": 5,
+                "Impact": 4,
+                "Explanation": "The joke has a clear setup and punchline, and the wordplay is clever, but it doesn't feel particularly original or groundbreaking.",
+                "Final Score": 4.0
+            },
+            {
+                "Originality": 2,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 2,
+                "Clarity": 5,
+                "Impact": 2,
+                "Explanation": "The wordplay is basic and the setup is predictable. The punchline relies on an obvious pun and lacks a strong twist.",
+                "Final Score": 2.6
+            },
+            {
+                "Originality": 3,
+                "Timing_and_Structure": 3,
+                "Surprise_Element": 4,
+                "Clarity": 4,
+                "Impact": 3,
+                "Explanation": "The joke uses familiar fire-related puns but adds an unexpected twist with the firefighter's hidden fear. The structure drags slightly, but the wordplay and resolution are clear.",
+                "Final Score": 3.4
+            }
+        ],
+        "novelty_score": {
+            "completions": [
+                "Because he heard the party was going to be 'lit'.",
+                "He was terrified of the birthday candles.",
+                "Just in case someone lit the barbecue too close to the house.",
+                "He heard the DJ was dropping 'fire' tracks and got nervous.",
+                "He was worried the conversation might get too heated."
+            ],
+            "scores": [
+                0.15384615384615385,
+                0.12244897959183672,
+                0.11111111111111112,
+                0.11320754716981131,
+                0.0784313725490196
+            ],
+            "max_similar": "Because he heard the party was going to be 'lit'.",
+            "max_score": 0.15384615384615385
+        }
+    }
+]
